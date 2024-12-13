@@ -40,13 +40,5 @@ Device name: PC2
 Device model: PC-PT
 IP Address: 169.254.227.228
 
-New PCs
-Device name: PC3
-Device model: PC-PT
-IP Address: 169.254.69.121
-
-Device name: PC4
-Device model: PC-PT
-IP Address: 169.254.20.203
 
 
